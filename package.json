@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "gatsby": "^5.5.0",
-    "gatsby-image": "^3.4.0",
+    "gatsby-image": "^3.11.0",
     "gatsby-plugin-sharp": "^3.4.0",
     "gatsby-source-filesystem": "^3.4.0",
     "gatsby-transformer-remark": "^5.25.1",
